@@ -20,7 +20,7 @@ The events in the database start in the year 1950 and end in November 2011. In t
 ## Questions
 Your data analysis must address the following questions:
 
-1. Across the United States, which types of events (as indicated in the \color{red}{\verb|EVTYPE|}EVTYPE variable) are most harmful with respect to population health?
+1. Across the United States, which types of events are most harmful with respect to population health?
 
 2. Across the United States, which types of events have the greatest economic consequences?
 
